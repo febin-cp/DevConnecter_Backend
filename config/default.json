@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://febin:febin123@devconnector-n3gx8.mongodb.net/test?retryWrites=true",
+    "jwtToken":"mysecrettoken" 
+}
